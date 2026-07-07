@@ -125,7 +125,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prithvinevercodes-ctrl&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvinevercodes-ctrl&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -136,33 +136,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvinevercodes-ctrl&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/prithvinevercodes-ctrl/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/prithvinevercodes-ctrl/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/prithvinevercodes-ctrl/output/github-contribution-grid-snake.svg" width="100%">
-
-</picture>
-
-
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prithvinevercodes-ctrl&theme=onestar&no-frame=true"/>
+  <img src="https://ghchart.rshah.org/prithvinevercodes-ctrl" />
 </p>
 
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+---
 
 # 📜 Certifications
 
 - ScholarHat – Java Fundamentals Course
-
+- Telusko - 62hrs Java Full Backend Course 
 ---
 
 # 🏅 Achievements
