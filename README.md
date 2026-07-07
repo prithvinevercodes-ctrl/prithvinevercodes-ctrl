@@ -124,17 +124,12 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithvinevercodes-ctrl&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithvinevercodes-ctrl&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvinevercodes-ctrl&layout=compact&theme=tokyonight"/>
-</p>
+
 
 <p align="center">
   <img src="https://ghchart.rshah.org/prithvinevercodes-ctrl" />
