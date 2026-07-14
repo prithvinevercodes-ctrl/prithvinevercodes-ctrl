@@ -53,6 +53,15 @@
 
 # 🚀 Featured Projects
 
+## Personal Portfolio website 
+
+- Prathvi Portfolio V1 is my personal portfolio website built to showcase my skills, projects, and journey as an aspiring Java Full Stack Developer. 
+
+- The portfolio highlights my technical skills, ongoing projects, and interests while reflecting my approach to clean UI design and user experience. Built with React and Vite, it focuses on performance, responsiveness, and maintainable component-based architecture.
+
+- This portfolio is a living project that will continue to evolve as I learn new technologies, complete more projects, and progress in my software engineering journey.
+
+
 ## 📘 Java Learning Repository (Ongoing)
 
 - Structured GitHub repository documenting Java concepts from basics to advanced.
@@ -79,6 +88,7 @@
 - Worked on dataset preparation, model training and evaluation.
 - Gained practical exposure to Computer Vision workflows.
 
+
 ---
 
 # 💡 Skills
@@ -91,7 +101,7 @@
 - C++
 - HTML
 - CSS
-
+- JavaScript 
 ### Java Concepts
 
 - Object-Oriented Programming
@@ -115,7 +125,7 @@
 - GitHub
 - Maven
 - Jupyter Notebook
-
+- Claude code
 ### Database
 
 - MySQL
@@ -146,9 +156,9 @@
 # 🏅 Achievements
 
 - Consistently documenting my Java learning journey on GitHub.
-- Building a professional portfolio focused on Java Backend Development.
+- Building a professional portfolio focused on Frontend and Ui/Ux.
 - Developed Java console applications using JDBC and MySQL.
-- Built an academic Object Detection project using YOLO.
+- Built an academic Anomalies Detection project using supervised learning.
 - Strong interest in writing clean, maintainable and scalable code.
 
 ---
@@ -159,11 +169,13 @@
 https://github.com/prithvinevercodes-ctrl
 
 💼 **LinkedIn**  
-https://linkedin.com/in/prathvi-chauhan
+https://www.linkedin.com/in/prathvi-chauhan
 
 📧 **Email**  
 16prithvi@gmail.com
 
+🌐 **Portfolio**
+https://prathvi-portfolio-v1.vercel.app/
 ---
 
 <h3 align="center">
