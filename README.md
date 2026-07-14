@@ -166,16 +166,16 @@
 # 🤝 Connect with Me
 
 🐙 **GitHub**  
-https://github.com/prithvinevercodes-ctrl
+- https://github.com/prithvinevercodes-ctrl
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/prathvi-chauhan
+- https://www.linkedin.com/in/prathvi-chauhan
 
 📧 **Email**  
-16prithvi@gmail.com
+- 16prithvi@gmail.com
 
 🌐 **Portfolio**
-https://prathvi-portfolio-v1.vercel.app/
+- https://prathvi-portfolio-v1.vercel.app/
 ---
 
 <h3 align="center">
